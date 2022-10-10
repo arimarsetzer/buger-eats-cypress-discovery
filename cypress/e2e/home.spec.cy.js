@@ -5,3 +5,9 @@ describe('home page', ()=>{
         signup.go()
     })
 })
+
+describe('home page', ()=>{
+    it('App must be online', function (){
+        signup.go()
+    })
+})
