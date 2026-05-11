@@ -1,7 +1,7 @@
-import signup from '../pages/SignupPage'
+import signup from "../pages/SignupPage";
 
-describe('home page', ()=>{
-    it('App must be online', function (){
-        signup.go()
-    })
-})
+describe("home page", () => {
+  it("App must be online", function () {
+    signup.go();
+  });
+});
